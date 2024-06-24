@@ -1,3 +1,5 @@
+An unofficial fork of the Nylas Node.js SDK that fixes timeout errors.
+
 <a href="https://www.nylas.com/">
     <img src="https://brand.nylas.com/assets/downloads/logo_horizontal_png/Nylas-Logo-Horizontal-Blue_.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 </a>

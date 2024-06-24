@@ -1,7 +1,7 @@
 {
-  "name": "nylas",
-  "version": "7.5.0",
-  "description": "A NodeJS wrapper for the Nylas REST API for email, contacts, and calendar.",
+  "name": "@getclarify/nylas-mirror",
+  "version": "7.6.0",
+  "description": "A mirror for a NodeJS wrapper for the Nylas REST API for email, contacts, and calendar.",
   "main": "lib/cjs/nylas.js",
   "types": "lib/types/nylas.d.ts",
   "module": "lib/esm/nylas.js",
@@ -68,7 +68,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nylas/nylas-nodejs.git"
+    "url": "https://github.com/clarifyhq/nylas-nodejs.git"
   },
   "exports": {
     "import": "./lib/esm/nylas.js",
